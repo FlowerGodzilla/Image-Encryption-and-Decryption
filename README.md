@@ -1,2 +1,10 @@
-# Image-Encryption-and-Decryption
-Image encryption using AES secures image data by converting it into unreadable ciphertext. Python's Cryptography library encrypts image pixels, ensuring confidentiality. The process includes reading, padding, encrypting, and saving the image, with decryption reversing these steps. This ensures secure image storage and transmission.
+# Image-Encryption-and-Decryption-using-AES-algorithm
+
+
+System: VM VirtualBox
+Python version: 2.7.17\
+Libraries used:\
+numpy 1.13.3\
+Pillow 9.0.0\
+pycryptodome 3.12.0\
+
